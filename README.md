@@ -46,8 +46,8 @@ The project follows a distributed architecture to handle the compute-heavy requi
 ### 2. Frontend (Local)
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/yourusername/ai-quiz-evaluator.git](https://github.com/yourusername/ai-quiz-evaluator.git)
-    cd ai-quiz-evaluator
+    git clone https://github.com/ujwal720/LLM_QUIZ_APPLICATION.git
+    cd LLM_QUIZ_APPLICATION
     ```
 2.  Install dependencies:
     ```bash
