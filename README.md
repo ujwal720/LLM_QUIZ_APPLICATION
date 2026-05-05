@@ -2,6 +2,7 @@
 
 A full-stack AI application that parses study materials (PDFs), generates structured Multiple Choice Questions (MCQs) using the **Mistral-7B** Large Language Model, and evaluates user performance in real-time.
 
+demo video:https://youtu.be/U6jVWVY3iU0?si=Zri0oizeBUWREtXP
 ---
 
 ## 🚀 Features
@@ -46,8 +47,8 @@ The project follows a distributed architecture to handle the compute-heavy requi
 ### 2. Frontend (Local)
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/yourusername/ai-quiz-evaluator.git](https://github.com/yourusername/ai-quiz-evaluator.git)
-    cd ai-quiz-evaluator
+    git clone https://github.com/ujwal720/LLM_QUIZ_APPLICATION.git
+    cd LLM_QUIZ_APPLICATION
     ```
 2.  Install dependencies:
     ```bash
